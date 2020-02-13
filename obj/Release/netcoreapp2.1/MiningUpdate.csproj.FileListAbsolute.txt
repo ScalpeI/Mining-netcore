@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\MiningUpdate\MiningUpdate\bin\Release\netcoreapp2.1\MiningUpdate.deps.json
+C:\Users\Пользователь\source\repos\MiningUpdate\MiningUpdate\bin\Release\netcoreapp2.1\MiningUpdate.runtimeconfig.json
+C:\Users\Пользователь\source\repos\MiningUpdate\MiningUpdate\bin\Release\netcoreapp2.1\MiningUpdate.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\MiningUpdate\MiningUpdate\bin\Release\netcoreapp2.1\MiningUpdate.dll
+C:\Users\Пользователь\source\repos\MiningUpdate\MiningUpdate\bin\Release\netcoreapp2.1\MiningUpdate.pdb
+C:\Users\Пользователь\source\repos\MiningUpdate\MiningUpdate\obj\Release\netcoreapp2.1\MiningUpdate.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\MiningUpdate\MiningUpdate\obj\Release\netcoreapp2.1\MiningUpdate.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\MiningUpdate\MiningUpdate\obj\Release\netcoreapp2.1\MiningUpdate.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\MiningUpdate\MiningUpdate\obj\Release\netcoreapp2.1\MiningUpdate.dll
+C:\Users\Пользователь\source\repos\MiningUpdate\MiningUpdate\obj\Release\netcoreapp2.1\MiningUpdate.pdb
+C:\Users\Пользователь\source\repos\MiningUpdate\MiningUpdate\obj\Release\netcoreapp2.1\MiningUpdate.csprojAssemblyReference.cache

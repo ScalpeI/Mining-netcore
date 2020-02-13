@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Пользователь\\source\\repos\\MiningUpdate\\MiningUpdate\\MiningUpdate.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Пользователь\\source\\repos\\MiningUpdate\\MiningUpdate\\MiningUpdate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Пользователь\\source\\repos\\MiningUpdate\\MiningUpdate\\MiningUpdate.csproj",
+        "projectName": "MiningUpdate",
+        "projectPath": "C:\\Users\\Пользователь\\source\\repos\\MiningUpdate\\MiningUpdate\\MiningUpdate.csproj",
+        "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Пользователь\\source\\repos\\MiningUpdate\\MiningUpdate\\obj\\publish\\linux-x64\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.11, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
